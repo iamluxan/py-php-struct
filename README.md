@@ -62,4 +62,4 @@ Tu peux modifier la variable `EXCLUDED_DIRS` dans le script si tu veux adapter c
 
 ## ✍️ Auteur
 
-Script écrit par **Touchet**.
+Script écrit par **Laurent TOUCHET**
